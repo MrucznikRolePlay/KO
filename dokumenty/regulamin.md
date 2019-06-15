@@ -11,7 +11,7 @@
     + [4. Organizacje o charakterze przewozowym](#4-organizacje-o-charakterze-przewozowym)
     + [5. Sklepy z bronią](#5-sklepy-z-bronią)
   * [Art 4. Założenia dla organizacji porządkowych](#art-4-założenia-dla-organizacji-porządkowych)
-    + [1. LSPD](#1-lspd)
+    + [1. LSPD](#1-LSPD---Los-Santos-Police-Department)
     + [2. ERS](#3-ers)
   * [Art 5. Założenia dla organizacji rządowych](#art-5-założenia-dla-organizacji-rządowych)
     + [FBI](#fbi)
@@ -79,7 +79,7 @@
 
 ## Art 4. Założenia dla organizacji porządkowych
 
-### 1. LSPD
+### 1. LSPD - Los Santos Police Department
 1. Utrzymywanie porządku publicznego w mieście,
 2. Reagowanie na zgłoszenia alarmowe,
 3. Wydawanie zezwoleń prawniczych,
