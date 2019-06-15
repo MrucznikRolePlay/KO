@@ -36,25 +36,24 @@
 
 ## Art 1. Zasady ogólne organizacji
 
-1. Główny lider może przekazać organizacje dopiero po upływie minimalnie trzech tygodni na stanowisku. Jeśli nie upłynie ten czas, może trafić na czarną listę liderów.
+1. Główny lider może przekazać organizacje dopiero po upływie minimalnie trzech tygodni na stanowisku.
 2. Organizacja prywatna i przestępcza składa się z 1 GLD + 2 VLD + Członków frakcji. W przypadku porządkowych i rządowych jest 1GLD + 3VLD + Członkowie frakcji.
 3. Wszystkie prace członków frakcji związane bezpośrednio z działalnością na rzecz organizacji z chwilą publikacji przestają być jego.
  * Prawo do publikacji prac byłych członków frakcji (lub liderów) przysługuje tylko i wyłącznie po zamieszczeniu adnotacji o autorze.
 4. Podczas otrzymania BW - gracz winien jest odgrywać osobę ranną przez co najmniej 10 minut, jeśli na serwerze znajdują się osoby należące do ERS.
-5. Sprawy poszczególnych zachowań i zasad IC (in character) regulują wewnętrzne regulaminy
+5. Sprawy poszczególnych zachowań i zasad IC (in character) regulują wewnętrzne regulaminy.
 6. Lider to przedstawiciel organizacji i jego zachowanie znacząco na nią wpływa. Organizacja może zostać ukarana za grzechy, które popełnił jeden z liderów.
 7. Uzyskanie 2 upomnień jest równoznaczne z usunięciem organizacji lub lidera.
 7.1. Uzyskanie 2 ostrzeżeń może skutkuje zmianą na upomnienie oraz obserwacją frakcji przez KO.
 8. Każda osoba grająca w organizacji przestępczej, porządkowej i rządowej wyraża automatycznie zgodę na CK dla zarządu KO.
 9. Opinie o FCK wydaje [Lionelek](https://mrucznik-rp.pl/user/1787-lionelek/) wraz z innymi opiekunami organizacji przestępczych, a ostateczną opinię podejmuje [_West_](https://mrucznik-rp.pl/user/1064-west/).
-10. Po odrzuceniu aplikacji kolejną możesz napisać dopiero po upływie dwóch tygodni od wydania werdyktu.
+10. Po odrzuceniu aplikacji kolejną możesz napisać dopiero po upływie tygodnia od wydania werdyktu.
 11. Regulamin dotyczy każdego gracza serwisu mrucznik-rp.
 
 ## Art 2. Zasady przekazywania lidera
 1. We wniosku o przekazanie lidera musicie uwzględnić tą osobę, która ma otrzymać to stanowisko. Zostanie wtedy ona sprawdzona przez KO.
-2. Wniosek o przekazanie lidera wysyłacie w wiadomości prywatnej do [odpowiedniej osoby z zarządu KO](https://mrucznik-rp.pl/topic/42664-ko-cz%C5%82onkowie-komisji/). Jest to zależne od tego jakiego typu jest ta organizacja.
-3. Wniosek może być odrzucony jeśli na osobę są stałe skargi lub znajduje się na [czarnej liście liderów](https://mrucznik-rp.pl/topic/140-ko-czarna-lista-lider%C3%B3w/). Skandaliczne zachowanie na forum również może być brane pod uwagę.
-4. Jeśli wniosek o przekazanie lidera zostanie odrzucony może to zakończyć się zamknięciem organizacji lub wewnętrzną/zewnętrzna rekrutacją na owe stanowisko.
+2. Wniosek o przekazanie lidera wysyłacie w wiadomości prywatnej do [kierownika KO](https://mrucznik-rp.pl/user/1064-west/).
+3. Jeśli wniosek o przekazanie lidera zostanie odrzucony może to zakończyć się zamknięciem organizacji lub wewnętrzną/zewnętrzna rekrutacją na owe stanowisko.
 
 ## Art 3. Założenia dla organizacji prywatnych
 ### 1. Postanowienia ogólne
@@ -62,10 +61,9 @@
 2. Zakazuje się zabawy w organizacje przestępczą/porządkową.
 3. Organizacja prywatna musi prowadzić schludną oraz przejrzystą galerię.
 4. Organizacja prywatna musi się sama utrzymywać tj. musi być rentowna.
-5. Organizacja prywatna może starać się o dofinansowania z Banku Centralnego.
-6. Organizacja może wchodzić w interakcję z przestępczymi (płacenie haraczu lub wykup usług co wiąże się ze skutkami IC).
-7. Każda organizacja prywatna ma możliwość organizacji eventu dotyczącego swojej działalności.
-8. Właściciel biznesu, który zakupił go w wydziale planowania lub wynajął daną nieruchomość ma pełną władzę nad działaniem biznesu, przyjmowaniem i wyrzucaniem członków oraz może dowolnie zarządzać składnikami majątku danej firmy.
+5. Organizacja może wchodzić w interakcję z przestępczymi (płacenie haraczu lub wykup usług co wiąże się ze skutkami IC).
+6. Każda organizacja prywatna ma możliwość organizacji eventu dotyczącego swojej działalności.
+7. Właściciel biznesu, który zakupił go w wydziale planowania lub wynajął daną nieruchomość ma pełną władzę nad działaniem biznesu, przyjmowaniem i wyrzucaniem członków oraz może dowolnie zarządzać składnikami majątku danej firmy.
 
 ### 2. Organizacje o charakterze radia lub telewizji
 1. Organizacja ma obowiązek prowadzenia rozmaitych działań min. Prowadzenie audycji, prowadzenie telewizji, gazety, wiadomości i organizowanie eventów.
