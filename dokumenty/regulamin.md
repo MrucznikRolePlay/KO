@@ -143,23 +143,19 @@
 
 ### 1. Zasady ogólne
 1. Śmierć lidera grupy skutkuje jej kasacją tylko w przypadku, gdy nie ma innej osoby, która pozwoli zachować wątek i ciągłość organizacji.
-2. Wszystkie prace członków organizacji związane bezpośrednio z organizacja oraz jej działalnością z chwilą publikacji przestają być ich własnością i stają się własnością frakcji, a tym samym mogą być w dowolny sposób przetwarzane i używane w obrębie forum - muszą jednak wskazywać autora danej pracy.
-  1. Organizacja przestępcza może sprzedawać broń tylko i wyłącznie drogą IC.
-  2. Zakaz handlowania bronią w miejscach publicznych.
+2. Organizacja przestępcza może sprzedawać broń tylko i wyłącznie drogą IC.
 3. Zakaz nadużywania komendy /maska lub /bandana bez wyraźnego powodu (np. jeżdżenie sobie ot tak po mieście w masce bez wyraźnego powodu).
-4.1 Każda organizacja ma obowiązek stworzyć własną alternatywę dla CK.
-4.2 Jeżeli alternatywa dotyczy wykupu przed CK - może on wynosić maksymalnie 10kk.
 
 ### 2. Porwania
 1. Przy porwaniu stosunek porywających do porwanych powinien wynosić co najmniej jeden do trzech (z wyjątkiem Freelancerów).
 2. Zakazuje się porywania w miejscach publicznych typu stacje, kasyno, bank, środek ulicy, komisariat, itd. - o reszcie decyduje kierownik lub administrator.
-3. Organizacje przestępcze mają prawo do przetrzymywania graczy za ich zgodą lub zgodą KO maksymalnie do 72 godzin.
+3. Organizacje przestępcze mają prawo do przetrzymywania graczy za ich zgodą lub zgodą KO maksymalnie do 48 godzin.
 4. Zasada fair-play. Jeśli porywasz i gwałcisz (lub okaleczasz) to nie możesz zakończyć akcji z MK/CK ofiary, tylko wyrzucić ją, żeby akcja była kontynuowana, a potem przyjąć konsekwencje na klatę. Jeśli porywasz, żeby nadać MK/CK to nie gwałć/nie rabuj/nie okaleczaj poszkodowanego przedtem. 
+
 ### 3. Napady
-1. Każdy napad musi zostać zaplanowany, a screeny z przygotowań powinny znaleźć się w temacie organizacji.
-2. Wymagana liczba osób do napadu wynosi: 5.
-3. Zarówno przestępcze jak i porządkowe po wbiciu BW powinny odgrywać rannych.
-4. Pieniądze za napad wypłaca LSPD oraz KO. Kwota zależna będzie przykładowo od takich czynników jak:
+1. Wymagana liczba osób do napadu wynosi: 5.
+2. Zarówno przestępcze jak i porządkowe po wbiciu BW powinny odgrywać rannych.
+3. Pieniądze za napad wypłaca LSPD oraz KO. Kwota zależna będzie przykładowo od takich czynników jak:
   - lokacja, w której został wykonany napad,
   - ilość zakładników,
   - śmierć któregoś z napadających,
@@ -167,41 +163,38 @@
   - co przestępcza uzyskała w trakcie napadu,
   - ile osób brało udział w akcji,
   - uwagi KO na ten temat.
-5. Podczas akcji nikt nie dostaje CK/FCK (odstępstwa w wyjątkowych sytuacjach po dokładnej konsultacji z KO) czy też wniosków do sądu – napad zazwyczaj kończy się BW, aresztowaniem, wrzuceniem do stanowego i zabraniem licencji.
-6. Jest zakaz celowania w drzwi przez broniących. Gdy szturmujący wchodzą należy odczekać aż zejdzie im klasyczny freeze podczas wchodzenia do lokacji.
+4. Podczas akcji nikt nie dostaje CK/FCK (odstępstwa w wyjątkowych sytuacjach po dokładnej konsultacji z KO) czy też wniosków do sądu – napad zazwyczaj kończy się BW, aresztowaniem, wrzuceniem do stanowego i zabraniem licencji.
+5. Jest zakaz celowania w drzwi przez broniących. Gdy szturmujący wchodzą należy odczekać aż zejdzie im klasyczny freeze podczas wchodzenia do lokacji.
 
 ### 4. Haracze
 1. Próby zastraszenia (wybijanie szyb, demolowanie lokalu) muszą być przedstawione w głównym temacie danego biznesu w postaci screenshotów z akcji.
-2. Maksymalna kwota haraczu nie może przekraczać 3.000.000 dolarów.
-3. Częstotliwość między haraczami powinna wynosić dwa tygodnie od ostatniej próby zebrania jej (patrz punkt 4).
-4. Kto pierwszy ten lepszy! Z jednego biznesu w przeciągu dwóch tygodni haracz ściąga tylko jedna organizacja. Chodzi o wymuszenie walk między organizacjami zamiast premiowania ciągłego znęcania się nad biznesami kilku organizacji naraz, które ignorują się wzajemnie.
-5. Po dwukrotnym odmówieniu i zastraszeniu właściciela biznesu organizacja może napisać wniosek do asystenta o umożliwienie dokonania podpalenia.
+2. Częstotliwość między haraczami powinna wynosić dwa tygodnie od ostatniej próby zebrania jej (patrz punkt 4).
+3. Kto pierwszy ten lepszy! Z jednego biznesu w przeciągu dwóch tygodni haracz ściąga tylko jedna organizacja. Chodzi o wymuszenie walk między organizacjami zamiast premiowania ciągłego znęcania się nad biznesami kilku organizacji naraz, które ignorują się wzajemnie.
+4. Po dwukrotnym odmówieniu i zastraszeniu właściciela biznesu organizacja może napisać wniosek do KO o umożliwienie dokonania podpalenia.
 
 ### 5. Podpalenia
-1. Podpalenia biznesów muszą zostać zgłoszone do asystenta z uwzględnieniem powodu oraz wstępnym przygotowaniem do akcji podpalenia.
-To on zadecyduje, czy podpalenie zostaje zaakceptowane czy też nie (a jeśli tak to przez jaki okres trwać będzie remont obiektu).
+1. Podpalenia biznesów muszą zostać zgłoszone do KO z uwzględnieniem powodu oraz wstępnym przygotowaniem do akcji podpalenia.
+To KO zadecyduje, czy podpalenie zostaje zaakceptowane czy też nie (a jeśli tak to przez jaki okres trwać będzie remont obiektu).
 2. Podpalenie powinno być **ostatecznością** podczas ściągania haraczy od biznesu.
 3. Każde podpalenie biznesu musi zostać zgłoszone w odpowiednim dziale, aby nakręcić wspólną grę na linii organizacje przestępcze ---> porządkowe.
 
 ### 6. Walka o wpływy & przynależność
 1. Przynależność do organizacji przestępczej zabrania rozgrywki w organizacjach porządkowych i rządowych na innych postaciach.
 2. Zabroniona jest przynależność do tej samej organizacji na dwóch postaciach.
-3. Podczas prowadzenia wojen między organizacjami należy założyć temat w [odpowiednim dziale](https://mrucznik-rp.pl/forum/536-projekty-ic/).
-4. Hierarchia nie obowiązuje - najważniejsze są wpływy.
-5. Organizacje przestępcze mają zakaz otwierania ognia w kierunku służb porządkowych bez wyraźnego powodu. Punkt tyczy się szczególnie gangów.
-6. Obowiązuje zakaz ponownego wbijania BW. Jeśli dana osoba była przed chwilą w tym stanie, a znów wyciągnie broń i zacznie strzelać - jest to jedyne odstępstwo od tej reguły.
+3. Podczas prowadzenia wojen między organizacjami mile widziane jest poinformowanie KO. Komisja ze swojej strony może zaproponować dalszą narrację rozgrywki.
+4. Organizacje przestępcze mają zakaz otwierania ognia w kierunku służb porządkowych bez wyraźnego powodu. Punkt tyczy się szczególnie gangów.
+5. Obowiązuje zakaz ponownego wbijania BW. Jeśli dana osoba była przed chwilą w tym stanie, a znów wyciągnie broń i zacznie strzelać - jest to jedyne odstępstwo od tej reguły.
 
 ### 7. Kradzieże pojazdów
 1. Każda organizacja przestępcza ma prawo do uprowadzenia maksymalnie 2 pojazdów co tydzień.
-2. Kradzież pojazdu może zostać wykonana tylko i wyłącznie w godzinach 16 - 21.
-3. Wszelkie przygotowania, a także sama kradzież pojazdu musi zostać udokumentowana poprzez SS (+ /time).
-4. W okradanej organizacji musi być co najmniej 3 aktywnych członków (na serwerze w trakcie kradzieży).
-5. Kradzieży aut mogą dokonać tylko i wyłącznie członkowie organizacji przestępczej.
-6. W celu dodania auta do organizacji, wysyłacie wszystkie screeny wraz z /czas (z akcji) do [Krates](https://mrucznik-rp.pl/user/42-krates/). Nie zapomnijcie o dodaniu screena z /rodziny, której kradniecie auto (SS musi również posiadać /czas!)
-7. KO może odrzucić kradzież danego auta przez brak screenshotów bądź niewystarczający materiał dowodowy.
-8. Pojazd, który został skradziony, będzie znajdował się w organizacji przestępczej do czasu aż PD/organizacja przestępcza je odzyska.
-9. Organizacje porządkowe mogą odzyskać auto, kiedy na serwerze jest przynajmniej 3 członków organizacji przestępczej, która ma aktualnie na swoim slocie owy pojazd.
-10. Jeśli organizacja przestępcza nie przejawia przez jakiś czas aktywności to pojazd może zostać odzyskany nawet jeśli nie ma nikogo w owej organizacji.
+2. Wszelkie przygotowania, a także sama kradzież pojazdu musi zostać udokumentowana poprzez SS (+ /time).
+3. W okradanej organizacji musi być co najmniej 3 aktywnych członków (na serwerze w trakcie kradzieży).
+4. Kradzieży aut mogą dokonać tylko i wyłącznie członkowie organizacji przestępczej.
+5. W celu dodania auta do organizacji, wysyłacie wszystkie screeny wraz z /czas (z akcji) do [Krates](https://mrucznik-rp.pl/user/42-krates/). Nie zapomnijcie o dodaniu screena z /rodziny, której kradniecie auto (SS musi również posiadać /czas!)
+6. KO może odrzucić kradzież danego auta przez brak screenshotów bądź niewystarczający materiał dowodowy.
+7. Pojazd, który został skradziony, będzie znajdował się w organizacji przestępczej do czasu aż PD/organizacja przestępcza je odzyska.
+8. Organizacje porządkowe mogą odzyskać auto, kiedy na serwerze jest przynajmniej 3 członków organizacji przestępczej, która ma aktualnie na swoim slocie owy pojazd.
+9. Jeśli organizacja przestępcza nie przejawia przez jakiś czas aktywności to pojazd może zostać odzyskany nawet jeśli nie ma nikogo w owej organizacji.
 
 ### 8. Regulamin FCK
 #### 1. Co trzeba zrobić, aby nadać FCK?
