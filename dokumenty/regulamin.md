@@ -17,7 +17,7 @@
     + [1. FBI - Federal Bureau of Investigation](#1-fbi---Federal-Bureau-of-Investigation)
     + [2. Urząd Miasta](#2-urząd-miasta)
     + [3. USSS - United States Secret Service](#3-usss---united-states-secret-service)
-    + [4. Sąd - Supreme Court of San Andreas](#4sąd---Supreme-Court-of-San-Andreas)
+    + [4. Sąd - Supreme Court of San Andreas](#4-sąd---Supreme-Court-of-San-Andreas)
       - [Uprawnienia](#uprawnienia)
       - [Obowiązki](#obowiązki)
       - [Zakazy](#zakazy)
