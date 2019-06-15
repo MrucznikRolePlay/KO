@@ -15,9 +15,9 @@
     + [2. ERS - Emergency Rescue Services](#2-ERS---Emergency-Rescue-Services)
   * [Art 5. Założenia dla organizacji rządowych](#art-5-założenia-dla-organizacji-rządowych)
     + [1. FBI - Federal Bureau of Investigation](#1-fbi---Federal-Bureau-of-Investigation)
-    + [Urząd Miasta](#urząd-miasta)
-    + [United States Secret Service](#united-states-secret-service)
-    + [Sąd](#sąd)
+    + [2. Urząd Miasta](#2-urząd-miasta)
+    + [3. USSS - United States Secret Service](#3-usss---united-states-secret-service)
+    + [4. Sąd - Supreme Court of San Andreas](#4sąd---Supreme-Court-of-San-Andreas)
       - [Uprawnienia](#uprawnienia)
       - [Obowiązki](#obowiązki)
       - [Zakazy](#zakazy)
@@ -107,16 +107,16 @@
 4. Przeprowadzanie kontroli antykorupcyjnych w innych organizacjach publiczno-rządowych,
 5. Prowadzenie specjalistycznej jednostki uderzeniowej HRT do zadań najwyższego ryzyka.
 
-### Urząd Miasta
+### 2. Urząd Miasta
 1. Wydawanie dokumentów publicznych (dowodów, prawa jazdy, licencje itp.)
 2. Przeprowadzanie egzaminów praktycznych i teoretycznych na wyżej wymienione dokumenty.
 
-### United States Secret Service
+### 3. USSS - United States Secret Service
 1. Ochrona miasta i członków rządu.
 2. Zabezpieczanie przedstawicieli rządu podczas eventów masowych.
 3. Zapewnianie konwojów i transportów ważnych osobistości. 
 
-### Sąd
+### 4. Sąd - Supreme Court of San Andreas
 #### Uprawnienia
 1. Prawo do przeprowadzania rozpraw sądowych na terenie sądu.
 2. Prawo do posiadania immunitetów przez Sędziów I instancji i wyżej.
