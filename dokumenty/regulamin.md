@@ -1,7 +1,7 @@
 ![Komisja Organizacyjna](http://i.imgur.com/tD29Bqm.png)
 
-# Regulamin ogólny KO
-- [Regulamin ogólny KO](#regulamin-ogólny-ko)
+# Regulamin Komisji Organizacyjnej
+- [Regulamin Komisji Organizacyjnej KO](#regulamin-komisji-organizacyjnej)
   * [Art 1. Zasady ogólne organizacji](#art-1-zasady-ogólne-organizacji)
   * [Art 2. Zasady przekazywania lidera](#art-2-zasady-przekazywania-lidera)
   * [Art 3. Założenia dla organizacji prywatnych](#art-3-założenia-dla-organizacji-prywatnych)
