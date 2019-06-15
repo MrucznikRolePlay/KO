@@ -1,4 +1,5 @@
 ![Komisja Organizacyjna](http://i.imgur.com/tD29Bqm.png)
+GÓWNO
 
 # Regulamin Komisji Organizacyjnej
 - [Regulamin Komisji Organizacyjnej KO](#regulamin-komisji-organizacyjnej)
