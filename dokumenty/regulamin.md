@@ -12,9 +12,9 @@
     + [5. Sklepy z bronią](#5-sklepy-z-bronią)
   * [Art 4. Założenia dla organizacji porządkowych](#art-4-założenia-dla-organizacji-porządkowych)
     + [1. LSPD](#1-lspd)
-    + [2. FBI](#2-fbi)
-    + [3. ERS](#3-ers)
+    + [2. ERS](#3-ers)
   * [Art 5. Założenia dla organizacji rządowych](#art-5-założenia-dla-organizacji-rządowych)
+    + [FBI](#fbi)
     + [Urząd Miasta](#urząd-miasta)
     + [United States Secret Service](#united-states-secret-service)
     + [Sąd](#sąd)
@@ -29,10 +29,6 @@
     + [5. Podpalenia](#5-podpalenia)
     + [6. Walka o wpływy & przynależność](#6-walka-o-wpływy--przynależność)
     + [7. Kradzieże pojazdów](#7-kradzieze-pojazdów)
-    + [8. Wydarzenia](#8-wydarzenia)
-      - [Regulamin wydarzeń](#regulamin-wydarzeń)
-    + [9. Aplikacje na organizacje przestępcze](#9-aplikacje-na-organizacje-przestepcze)
-      - [1. Regulamin aplikacji](#1-regulamin-aplikacji)
     + [10. Regulamin FCK](#10-regulamin-fck)
       - [1. Co trzeba zrobić aby nadać FCK?](#1-co-trzeba-zrobic-aby-nadać-fck)
       - [2. Za co można otrzymać FCK?](#2-za-co-można-otrzymać-fck)
@@ -96,14 +92,7 @@
 8. Zabezpieczanie imprez masowych i miejsc zdarzenia,
 9. Prowadzenie jednostki Gang Unit specjalizującej się w działaniu na terenie South Central w związku z gangami ulicznymi.
 
-### 2. FBI
-1. Prowadzenie działań kryminalno-dochodzeniowych na terenie miasta,
-2. Zwalczanie obiegu nielegalnych narkotyków i broni,
-3. Inwigilowanie i rozpracowywanie organizacji przestępczych,
-4. Przeprowadzanie kontroli antykorupcyjnych w innych organizacjach publiczno-rządowych,
-5. Prowadzenie specjalistycznej jednostki uderzeniowej HRT do zadań najwyższego ryzyka.
-
-### 3. ERS
+### 2. ERS
 1. Reagowanie na zgłoszenia alarmowe,
 2. Zarządzanie i administrowanie szpitalem,
 3. Gaszenie pożarów,
@@ -112,6 +101,14 @@
 6. Przeprowadzanie zabiegów i operacji.
 
 ## Art 5. Założenia dla organizacji rządowych
+
+### FBI
+1. Prowadzenie działań kryminalno-dochodzeniowych na terenie miasta,
+2. Zwalczanie obiegu nielegalnych narkotyków i broni,
+3. Inwigilowanie i rozpracowywanie organizacji przestępczych,
+4. Przeprowadzanie kontroli antykorupcyjnych w innych organizacjach publiczno-rządowych,
+5. Prowadzenie specjalistycznej jednostki uderzeniowej HRT do zadań najwyższego ryzyka.
+
 ### Urząd Miasta
 1. Wydawanie dokumentów publicznych (dowodów, prawa jazdy, licencje itp.)
 2. Przeprowadzanie egzaminów praktycznych i teoretycznych na wyżej wymienione dokumenty.
@@ -207,48 +204,6 @@ To on zadecyduje, czy podpalenie zostaje zaakceptowane czy też nie (a jeśli ta
 8. Pojazd, który został skradziony, będzie znajdował się w organizacji przestępczej do czasu aż PD/organizacja przestępcza je odzyska.
 9. Organizacje porządkowe mogą odzyskać auto, kiedy na serwerze jest przynajmniej 3 członków organizacji przestępczej, która ma aktualnie na swoim slocie owy pojazd.
 10. Jeśli organizacja przestępcza nie przejawia przez jakiś czas aktywności to pojazd może zostać odzyskany nawet jeśli nie ma nikogo w owej organizacji.
-
-### 8. Wydarzenia
-Jeśli podziurawiłeś opony lub naraziłeś się w jakiś sposób innej organizacji swoimi czynami to właśnie tutaj jest odpowiednie miejsce, żeby to ogłosić - inaczej akcja nie miała miejsca i traktujemy to na zasadzie MK.
-Wrzucamy tutaj wszystko co wychodzi poza prawo czy jakieś inne sytuacje dziejące się w półświatku - niekoniecznie nielegalne (zloty, bitwy freestyle - no wszystko co organizujemy bądź się wydarzyło).
-#### Regulamin wydarzeń
-1. W wydarzenia wrzucamy prawdziwe wydarzenia poparte screenami (obowiązkowo zamieszczamy chociaż jeden zrzut ekranu bądź inne graficzne wynalazki).
-2. Dział panuje na zasadzie komendy /do.
-3. Jeśli ktoś będzie pytał w komentarzu o konkrety to mamy obowiązek odpowiedzieć.
-4. Nazwa tematu musi być konkretna np. 'Zwłoki w lesie', 'Graffiti na komisariacie'.
-5. Pod wydarzeniem możemy komentować odczucia naszej postaci i zachowania wobec wydarzenia.
-6. Aby trafić na owe wydarzenie musimy pierw zrobić krótką historyjkę jak do tego doszło.
-7. Organizacja, której wydarzenie zaszkodziło (np. wybicie okien w lokalu, przebicie opon) musi zamknąć interes i wstawić screeny w wydarzeniu jak odgrywają szkody.
-W innym przypadku możemy zgłosić delikwentów i poniosą konsekwencje (jeśli wiedzą o tym, a zlewają).
-8. Każde zabójstwo (CK/FCK) z ręki organizacji przestępczej musi zostać udokumentowane w tym dziale. W innym wypadku zostanie ono odrzucone.
-
-Uwaga! Mamy dla was pewną wyjątkową ofertę.
-Jeśli chcesz ominąć MG ze strony sojuszniczej organizacji, a chcesz odegrać, np. przebicie opon bądź coś podobnego to napisz do nas, a wrzucimy wydarzenie za Ciebie.
-
-### 9. Aplikacje na organizacje przestępcze
-**Aby aplikacja została zaakceptowana na okres próbny musi przede wszystkim posiadać**:
-1. Notatkę IC
-2. Notatkę OOC
-3. Proste logo (jedna ładna grafika wystarczy).
-4. Pierwsze SS'y z gry (pokazujecie w nich coś więcej niż jedną osobę).
-
-**Na co patrzymy głównie podczas wybierania aplikacji?**:
-1. Jakość oraz aktywność podczas waszej gry,
-2. Zaangażowanie w półświatek przestępczy, interakcje z innymi organizacjami.
-
-#### 1. Regulamin aplikacji
-1. Jeśli aplikacja została odrzucona to jej autor musi odczekać dwa tygodnie zanim wrzuci kolejną.
-2. Aplikacje grające tylko i wyłącznie w swoim towarzystwie są z miejsca odrzucane.
-3. Twórca aplikacji może trafić na black listę, jeśli dopuści się (przykładowo) takich przewinień jak:
-  - plagiat,
-  - tworzenie aplikacji dla jaj lub by sobie poodwalać jako organizacja,
-  - pisanie aplikacji w czasie dwutygodniowego zakazu kilka razy z rzędu.
-  - i inne.
-4 Kiedy założyciel zostanie zabity (CK) bądź zostanie zbanowany i nie przekaże pieczy nad aplikacją innej osobie to zostaje ona odrzucona
-6. Nowo powstałe aplikacje mogą mieć nieskończony czas ochrony, jeśli nie zostało dokonane żadne przestępstwo (patrz pkt. 2 oraz 8).
-7. Granie od zera (*czyli brak broni, wpływów, narkotyków, terenów i biznesów - do wszystkiego musicie dojść*) jest wtedy, kiedy aplikacja zaczyna bez żadnego powiązania z inną organizacją.
-8. Grając na aplikacji nie możemy grać na slocie dla /invite. W przeciwnym razie aplikacja może otrzymać ostrzeżenie lub zostać natychmiastowo odrzucona.
-9. Aby aplikacja mogła zacząć funkcjonować pełnoprawnie (oficjalne rozpoczęcie walki o slot) wymagane jest, by dopuściła się ona jakiegoś poważnego przestępstwa* (akcje typu tagowanie nie są brane pod uwagę) i ogłosiła go w dziale Wydarzenia.
 
 ### 10. Regulamin FCK
 #### 1. Co trzeba zrobić, aby nadać FCK?
