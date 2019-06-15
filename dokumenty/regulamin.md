@@ -12,7 +12,7 @@
     + [5. Sklepy z bronią](#5-sklepy-z-bronią)
   * [Art 4. Założenia dla organizacji porządkowych](#art-4-założenia-dla-organizacji-porządkowych)
     + [1. LSPD - Los Santos Police Department](#1-LSPD---Los-Santos-Police-Department)
-    + [2. ERS - Emergency Rescue Services](#3-ERS---Emergency-Rescue-Services)
+    + [2. ERS - Emergency Rescue Services](#2-ERS---Emergency-Rescue-Services)
   * [Art 5. Założenia dla organizacji rządowych](#art-5-założenia-dla-organizacji-rządowych)
     + [FBI - Federal Bureau of Investigation](#fbi---Federal-Bureau-of-Investigation)
     + [Urząd Miasta](#urząd-miasta)
