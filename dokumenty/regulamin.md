@@ -30,7 +30,7 @@
     + [6. Walka o wpływy & przynależność](#6-walka-o-wpływy--przynależność)
     + [7. Kradzieże pojazdów](#7-kradzieże-pojazdów)
     + [8. Regulamin FCK](#8-regulamin-fck)
-      - [1. Co trzeba zrobić aby nadać FCK?](#1-co-trzeba-zrobić-aby-nadać-FCK?)
+      - [1. Co trzeba zrobić, aby nadać FCK?](#1-co-trzeba-zrobić-aby-nadać-FCK)
       - [2. Za co można otrzymać FCK?](#2-za-co-można-otrzymać-fck)
       - [3. Skutki FCK](#3-skutki-fck)
 
@@ -202,7 +202,7 @@ To KO zadecyduje, czy podpalenie zostaje zaakceptowane czy też nie (a jeśli ta
 9. Jeśli organizacja przestępcza nie przejawia przez jakiś czas aktywności to pojazd może zostać odzyskany nawet jeśli nie ma nikogo w owej organizacji.
 
 ### 8. Regulamin FCK
-#### 1. Co trzeba zrobić aby nadać FCK?
+#### 1. Co trzeba zrobić, aby nadać FCK?
 - posiadać konkretny powód, który nie może być błahostką (możliwe powody podane w 2 podpunkcie).
 - wysłać plan zabójstwa w odpowiedniej wiadomości do [_West_](https://mrucznik-rp.pl/user/1064-west/) & [Herato](https://mrucznik-rp.pl/user/7735-herato/).
 Uwzględniamy tam screeny z planowania, przebiegu akcji i powód do ewentualnego wykonania FCK.
