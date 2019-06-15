@@ -14,7 +14,7 @@
     + [1. LSPD - Los Santos Police Department](#1-LSPD---Los-Santos-Police-Department)
     + [2. ERS - Emergency Rescue Services](#2-ERS---Emergency-Rescue-Services)
   * [Art 5. Założenia dla organizacji rządowych](#art-5-założenia-dla-organizacji-rządowych)
-    + [FBI - Federal Bureau of Investigation](#fbi---Federal-Bureau-of-Investigation)
+    + [1. FBI - Federal Bureau of Investigation](#1-fbi---Federal-Bureau-of-Investigation)
     + [Urząd Miasta](#urząd-miasta)
     + [United States Secret Service](#united-states-secret-service)
     + [Sąd](#sąd)
@@ -100,7 +100,7 @@
 
 ## Art 5. Założenia dla organizacji rządowych
 
-### FBI - Federal Bureau of Investigation
+### 1. FBI - Federal Bureau of Investigation
 1. Prowadzenie działań kryminalno-dochodzeniowych na terenie miasta,
 2. Zwalczanie obiegu nielegalnych narkotyków i broni,
 3. Inwigilowanie i rozpracowywanie organizacji przestępczych,
