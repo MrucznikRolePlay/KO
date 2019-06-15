@@ -73,6 +73,11 @@
 1. Organizacje zajmują się sprzedażą części samochodowych, ich wymianą, zwiększaniem osiągów pojazdów oraz zmiana stylistyczna auta(tj. naprawa, tankowanie, tuning pojazdów).
 3. Organizacje mogą  też w ramach porozumienia drogą IC wystawiać odpłatne zaświadczenia o stanie technicznym pojazdu dla organizacji.
 
+### 4. Organizacje o charakterze przewozowym
+1. Głównym celem tych organizacji jest prowadzenie przewozu osób.
+2. Ów organizacje mają możliwość zajmowania charakterystycznych miejsc parkingowych celem zdobycia klientów.
+3. W ramach porozumień IC mogą świadczyć swoje usługi klientom prywatnym.
+
 ### 5. Sklepy z bronią
 1. Mogą one sprzedawać bronie zgodne z postanowieniami polityki stanowej.
 2. Zakaz sprzedawania broni w sposób nielegalny.
