@@ -11,10 +11,10 @@
     + [4. Organizacje o charakterze przewozowym](#4-organizacje-o-charakterze-przewozowym)
     + [5. Sklepy z bronią](#5-sklepy-z-bronią)
   * [Art 4. Założenia dla organizacji porządkowych](#art-4-założenia-dla-organizacji-porządkowych)
-    + [1. LSPD](#1-LSPD---Los-Santos-Police-Department)
-    + [2. ERS](#3-ers)
+    + [1. LSPD - Los Santos Police Department](#1-LSPD---Los-Santos-Police-Department)
+    + [2. ERS - Emergency Rescue Services](#3-ers---Emergency-Rescue-Services)
   * [Art 5. Założenia dla organizacji rządowych](#art-5-założenia-dla-organizacji-rządowych)
-    + [FBI](#fbi)
+    + [FBI - Federal Bureau of Investigation](#fbi---Federal-Bureau-of-Investigation)
     + [Urząd Miasta](#urząd-miasta)
     + [United States Secret Service](#united-states-secret-service)
     + [Sąd](#sąd)
@@ -90,7 +90,7 @@
 8. Zabezpieczanie imprez masowych i miejsc zdarzenia,
 9. Prowadzenie jednostki Gang Unit specjalizującej się w działaniu na terenie South Central w związku z gangami ulicznymi.
 
-### 2. ERS
+### 2. ERS - Emergency Rescue Services
 1. Reagowanie na zgłoszenia alarmowe,
 2. Zarządzanie i administrowanie szpitalem,
 3. Gaszenie pożarów,
@@ -100,7 +100,7 @@
 
 ## Art 5. Założenia dla organizacji rządowych
 
-### FBI
+### FBI - Federal Bureau of Investigation
 1. Prowadzenie działań kryminalno-dochodzeniowych na terenie miasta,
 2. Zwalczanie obiegu nielegalnych narkotyków i broni,
 3. Inwigilowanie i rozpracowywanie organizacji przestępczych,
