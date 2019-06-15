@@ -28,7 +28,7 @@
     + [4. Haracze](#4-haracze)
     + [5. Podpalenia](#5-podpalenia)
     + [6. Walka o wpływy & przynależność](#6-walka-o-wpływy--przynależność)
-    + [7. Kradzieże pojazdów](#7-kradzieze-pojazdów)
+    + [7. Kradzieże pojazdów](#7-kradzieże-pojazdów)
     + [8. Regulamin FCK](#8-regulamin-fck)
       - [1. Co trzeba zrobić aby nadać FCK?](#1-co-trzeba-zrobic-aby-nadać-fck)
       - [2. Za co można otrzymać FCK?](#2-za-co-można-otrzymać-fck)
