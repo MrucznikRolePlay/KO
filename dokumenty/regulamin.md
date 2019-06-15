@@ -29,7 +29,7 @@
     + [5. Podpalenia](#5-podpalenia)
     + [6. Walka o wpływy & przynależność](#6-walka-o-wpływy--przynależność)
     + [7. Kradzieże pojazdów](#7-kradzieze-pojazdów)
-    + [10. Regulamin FCK](#10-regulamin-fck)
+    + [8. Regulamin FCK](#8-regulamin-fck)
       - [1. Co trzeba zrobić aby nadać FCK?](#1-co-trzeba-zrobic-aby-nadać-fck)
       - [2. Za co można otrzymać FCK?](#2-za-co-można-otrzymać-fck)
       - [3. Skutki FCK](#3-skutki-fck)
@@ -205,7 +205,7 @@ To on zadecyduje, czy podpalenie zostaje zaakceptowane czy też nie (a jeśli ta
 9. Organizacje porządkowe mogą odzyskać auto, kiedy na serwerze jest przynajmniej 3 członków organizacji przestępczej, która ma aktualnie na swoim slocie owy pojazd.
 10. Jeśli organizacja przestępcza nie przejawia przez jakiś czas aktywności to pojazd może zostać odzyskany nawet jeśli nie ma nikogo w owej organizacji.
 
-### 10. Regulamin FCK
+### 8. Regulamin FCK
 #### 1. Co trzeba zrobić, aby nadać FCK?
 - posiadać konkretny powód, który nie może być błahostką (możliwe powody podane w 2 podpunkcie).
 - wysłać plan zabójstwa w odpowiedniej wiadomości do [_West_](https://mrucznik-rp.pl/user/1064-west/) & [Herato](https://mrucznik-rp.pl/user/7735-herato/).
