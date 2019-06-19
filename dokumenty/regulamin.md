@@ -204,7 +204,7 @@ To KO zadecyduje, czy podpalenie zostaje zaakceptowane czy też nie (a jeśli ta
 ### 8. Regulamin FCK
 #### 1. Co trzeba zrobić, aby nadać FCK?
 - posiadać konkretny powód, który nie może być błahostką (możliwe powody podane w 2 podpunkcie).
-- wysłać plan zabójstwa w odpowiedniej wiadomości do [_West_](https://mrucznik-rp.pl/user/1064-west/) & [Herato](https://mrucznik-rp.pl/user/7735-herato/).
+- wysłać plan zabójstwa w odpowiedniej wiadomości do [_West_](https://mrucznik-rp.pl/user/1064-west/) & [Lionelek](https://mrucznik-rp.pl/user/1787-lionelek/).
 Uwzględniamy tam screeny z planowania, przebiegu akcji i powód do ewentualnego wykonania FCK.
 - każde zabójstwo z ręki organizacji przestępczej musi zostać udokumentowane w dziale Wydarzenia. W innym wypadku zostanie ono odrzucone.
 
