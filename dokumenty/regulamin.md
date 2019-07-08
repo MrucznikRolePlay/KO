@@ -46,7 +46,7 @@
 7. Uzyskanie 2 upomnień jest równoznaczne z usunięciem organizacji lub lidera.
 7.1. Uzyskanie 2 ostrzeżeń skutkuje zmianą na upomnienie oraz obserwacją frakcji przez KO.
 8. Każda osoba grająca w organizacji przestępczej, porządkowej i rządowej wyraża automatycznie zgodę na CK dla zarządu KO.
-9. Opinie o FCK wydaje [Lionelek](https://mrucznik-rp.pl/user/1787-lionelek/) wraz z innymi opiekunami organizacji przestępczych, a ostateczną opinię podejmuje [_West_](https://mrucznik-rp.pl/user/1064-west/).
+9. Opinie o FCK wydaje [Timon](https://mrucznik-rp.pl/user/3075-timon/) wraz z innymi opiekunami organizacji przestępczych, a ostateczną opinię podejmuje [_West_](https://mrucznik-rp.pl/user/1064-west/).
 10. Po odrzuceniu aplikacji kolejną możesz napisać dopiero po upływie tygodnia od wydania werdyktu.
 11. Regulamin dotyczy każdego gracza serwisu mrucznik-rp.
 
@@ -204,7 +204,7 @@ To KO zadecyduje, czy podpalenie zostaje zaakceptowane czy też nie (a jeśli ta
 ### 8. Regulamin FCK
 #### 1. Co trzeba zrobić, aby nadać FCK?
 - posiadać konkretny powód, który nie może być błahostką (możliwe powody podane w 2 podpunkcie).
-- wysłać plan zabójstwa w odpowiedniej wiadomości do [_West_](https://mrucznik-rp.pl/user/1064-west/) & [Lionelek](https://mrucznik-rp.pl/user/1787-lionelek/).
+- wysłać plan zabójstwa w odpowiedniej wiadomości do [_West_](https://mrucznik-rp.pl/user/1064-west/) & [Timon](https://mrucznik-rp.pl/user/3075-timon/).
 Uwzględniamy tam screeny z planowania, przebiegu akcji i powód do ewentualnego wykonania FCK.
 - każde zabójstwo z ręki organizacji przestępczej musi zostać udokumentowane w dziale Wydarzenia. W innym wypadku zostanie ono odrzucone.
 
