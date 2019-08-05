@@ -184,11 +184,10 @@ To KO zadecyduje, czy podpalenie zostaje zaakceptowane czy też nie (a jeśli ta
 3. Każde podpalenie biznesu musi zostać zgłoszone w odpowiednim dziale, aby nakręcić wspólną grę na linii organizacje przestępcze ---> porządkowe.
 
 ### 6. Walka o wpływy & przynależność
-1. Przynależność do organizacji przestępczej zabrania rozgrywki w organizacjach porządkowych i rządowych na innych postaciach.
-2. Zabroniona jest przynależność do tej samej organizacji na dwóch postaciach.
-3. Podczas prowadzenia wojen między organizacjami mile widziane jest poinformowanie KO. Komisja ze swojej strony może zaproponować dalszą narrację rozgrywki.
-4. Organizacje przestępcze mają zakaz otwierania ognia w kierunku służb porządkowych bez wyraźnego powodu. Punkt tyczy się szczególnie gangów.
-5. Obowiązuje zakaz ponownego wbijania BW. Jeśli dana osoba była przed chwilą w tym stanie, a znów wyciągnie broń i zacznie strzelać - jest to jedyne odstępstwo od tej reguły.
+1. Zabroniona jest przynależność do tej samej organizacji na dwóch postaciach. Wyjątek dotyczy liderów organizacji, którzy za zgodą KO mogą prowadzić drugą postać jako epizod.
+2. Podczas prowadzenia wojen między organizacjami mile widziane jest poinformowanie KO. Komisja ze swojej strony może zaproponować dalszą narrację rozgrywki.
+3. Organizacje przestępcze mają zakaz otwierania ognia w kierunku służb porządkowych bez wyraźnego powodu. Punkt tyczy się szczególnie gangów.
+4. Obowiązuje zakaz ponownego wbijania BW. Jeśli dana osoba była przed chwilą w tym stanie, a znów wyciągnie broń i zacznie strzelać - jest to jedyne odstępstwo od tej reguły.
 
 ### 7. Kradzieże pojazdów
 1. Każda organizacja przestępcza ma prawo do uprowadzenia maksymalnie 2 pojazdów co tydzień.
