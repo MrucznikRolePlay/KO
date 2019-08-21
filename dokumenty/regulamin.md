@@ -46,7 +46,7 @@
 7. Uzyskanie 2 upomnień jest równoznaczne z usunięciem organizacji lub lidera.
 7.1. Uzyskanie 2 ostrzeżeń skutkuje zmianą na upomnienie oraz obserwacją frakcji przez KO.
 8. Każda osoba grająca w organizacji przestępczej, porządkowej i rządowej wyraża automatycznie zgodę na CK dla zarządu KO.
-9. Opinie o FCK wydaje [Timon](https://mrucznik-rp.pl/user/3075-timon/) wraz z innymi opiekunami organizacji przestępczych, a ostateczną opinię podejmuje [_West_](https://mrucznik-rp.pl/user/1064-west/).
+9. Opinie o FCK wydaje [ESHU](https://mrucznik-rp.pl/user/7747-eshu/) wraz z innymi opiekunami organizacji przestępczych, a ostateczną opinię podejmuje [_West_](https://mrucznik-rp.pl/user/1064-west/).
 10. Po odrzuceniu aplikacji kolejną możesz napisać dopiero po upływie tygodnia od wydania werdyktu.
 11. Regulamin dotyczy każdego gracza serwisu mrucznik-rp.
 
@@ -194,7 +194,7 @@ To KO zadecyduje, czy podpalenie zostaje zaakceptowane czy też nie (a jeśli ta
 2. Wszelkie przygotowania, a także sama kradzież pojazdu musi zostać udokumentowana poprzez SS (+ /time).
 3. W okradanej organizacji musi być co najmniej 3 aktywnych członków (na serwerze w trakcie kradzieży).
 4. Kradzieży aut mogą dokonać tylko i wyłącznie członkowie organizacji przestępczej.
-5. W celu dodania auta do organizacji, wysyłacie wszystkie screeny wraz z /czas (z akcji) do [Krates](https://mrucznik-rp.pl/user/42-krates/). Nie zapomnijcie o dodaniu screena z /rodziny, której kradniecie auto (SS musi również posiadać /czas!)
+5. W celu dodania auta do organizacji, wysyłacie wszystkie screeny wraz z /czas (z akcji) do [ESHU](https://mrucznik-rp.pl/user/7747-eshu/). Nie zapomnijcie o dodaniu screena z /rodziny, której kradniecie auto (SS musi również posiadać /czas!)
 6. KO może odrzucić kradzież danego auta przez brak screenshotów bądź niewystarczający materiał dowodowy.
 7. Pojazd, który został skradziony, będzie znajdował się w organizacji przestępczej do czasu aż PD/organizacja przestępcza je odzyska.
 8. Organizacje porządkowe mogą odzyskać auto, kiedy na serwerze jest przynajmniej 3 członków organizacji przestępczej, która ma aktualnie na swoim slocie owy pojazd.
@@ -203,7 +203,7 @@ To KO zadecyduje, czy podpalenie zostaje zaakceptowane czy też nie (a jeśli ta
 ### 8. Regulamin FCK
 #### 1. Co trzeba zrobić, aby nadać FCK?
 - posiadać konkretny powód, który nie może być błahostką (możliwe powody podane w 2 podpunkcie).
-- wysłać plan zabójstwa w odpowiedniej wiadomości do [_West_](https://mrucznik-rp.pl/user/1064-west/) & [Timon](https://mrucznik-rp.pl/user/3075-timon/).
+- wysłać plan zabójstwa w odpowiedniej wiadomości do [_West_](https://mrucznik-rp.pl/user/1064-west/) & [ESHU](https://mrucznik-rp.pl/user/7747-eshu/).
 Uwzględniamy tam screeny z planowania, przebiegu akcji i powód do ewentualnego wykonania FCK.
 - każde zabójstwo z ręki organizacji przestępczej musi zostać udokumentowane w dziale Wydarzenia. W innym wypadku zostanie ono odrzucone.
 
