@@ -49,6 +49,7 @@
 9. Opinie o FCK wydaje [ESHU](https://mrucznik-rp.pl/user/7747-eshu/) wraz z innymi opiekunami organizacji przestępczych, a ostateczną opinię podejmuje [_West_](https://mrucznik-rp.pl/user/1064-west/).
 10. Po odrzuceniu aplikacji kolejną możesz napisać dopiero po upływie tygodnia od wydania werdyktu.
 11. Regulamin dotyczy każdego gracza serwisu mrucznik-rp.
+12. Główny lider organizacji ponosi pełną odpowiedzialność za działania swoich liderów pomocniczych. 
 
 ## Art 2. Zasady przekazywania lidera
 1. We wniosku o przekazanie lidera musicie uwzględnić tą osobę, która ma otrzymać to stanowisko. Zostanie wtedy ona sprawdzona przez KO.
@@ -190,15 +191,16 @@ To KO zadecyduje, czy podpalenie zostaje zaakceptowane czy też nie (a jeśli ta
 4. Obowiązuje zakaz ponownego wbijania BW. Jeśli dana osoba była przed chwilą w tym stanie, a znów wyciągnie broń i zacznie strzelać - jest to jedyne odstępstwo od tej reguły.
 
 ### 7. Kradzieże pojazdów
-1. Każda organizacja przestępcza ma prawo do uprowadzenia maksymalnie 2 pojazdów co tydzień.
-2. Wszelkie przygotowania, a także sama kradzież pojazdu musi zostać udokumentowana poprzez SS (+ /time).
-3. W okradanej organizacji musi być co najmniej 3 aktywnych członków (na serwerze w trakcie kradzieży).
-4. Kradzieży aut mogą dokonać tylko i wyłącznie członkowie organizacji przestępczej.
-5. W celu dodania auta do organizacji, wysyłacie wszystkie screeny wraz z /czas (z akcji) do [ESHU](https://mrucznik-rp.pl/user/7747-eshu/). Nie zapomnijcie o dodaniu screena z /rodziny, której kradniecie auto (SS musi również posiadać /czas!)
-6. KO może odrzucić kradzież danego auta przez brak screenshotów bądź niewystarczający materiał dowodowy.
-7. Pojazd, który został skradziony, będzie znajdował się w organizacji przestępczej do czasu aż PD/organizacja przestępcza je odzyska.
-8. Organizacje porządkowe mogą odzyskać auto, kiedy na serwerze jest przynajmniej 3 członków organizacji przestępczej, która ma aktualnie na swoim slocie owy pojazd.
-9. Jeśli organizacja przestępcza nie przejawia przez jakiś czas aktywności to pojazd może zostać odzyskany nawet jeśli nie ma nikogo w owej organizacji.
+1. Każda organizacja przestępcza ma prawo do uprowadzenia maksymalnie jednego pojazdu co tydzień.
+2. Jeżeli do aktu kradzieży ma dojść ponownie na tej samej organizacji trzeba odczekać okres dwóch tygodni przed następną kradzieżą. 
+3. Wszelkie przygotowania, a także sama kradzież pojazdu musi zostać udokumentowana poprzez SS (+ /time).
+4. W okradanej organizacji musi być co najmniej 3 aktywnych członków (na serwerze w trakcie kradzieży).
+5. Kradzieży aut mogą dokonać tylko i wyłącznie członkowie organizacji przestępczej.
+6. W celu dodania auta do organizacji, wysyłacie wszystkie screeny wraz z /czas (z akcji) do [ESHU](https://mrucznik-rp.pl/user/7747-eshu/) oraz [DMJ](https://mrucznik-rp.pl/user/2153-dmj/). Nie zapomnijcie o dodaniu screena z /rodziny, której kradniecie auto (SS musi również posiadać /czas!)
+7. KO może odrzucić kradzież danego auta przez brak screenshotów bądź niewystarczający materiał dowodowy.
+8. Pojazd, który został skradziony, będzie znajdował się w organizacji przestępczej do czasu aż PD/organizacja przestępcza je odzyska.
+9. Organizacje porządkowe mogą odzyskać auto, kiedy na serwerze jest przynajmniej 3 członków organizacji przestępczej, która ma aktualnie na swoim slocie owy pojazd.
+10. Jeśli organizacja przestępcza nie przejawia przez jakiś czas aktywności to pojazd może zostać odzyskany nawet jeśli nie ma nikogo w owej organizacji.
 
 ### 8. Regulamin FCK
 #### 1. Co trzeba zrobić, aby nadać FCK?
@@ -213,7 +215,9 @@ Uwzględniamy tam screeny z planowania, przebiegu akcji i powód do ewentualnego
 - za infiltrację organizacji przestępczej; kret,
 - za nieuczestniczenie w życiu organizacji,
 - za umyślne przeszkadzanie w grze dowolnej organizacji przestępczej,
+- za unikanie płacenia haraczu przez właściciela biznesu, pomimo wielokrotnych prób jego uzyskania,
 - poprzez nadanie wyroku dożywocia przez sąd lub kary śmierci.
+
 Kierownik może zatwierdzić FCK za rzeczy nieuwzględnione w regulaminie, tak zwane *sytuacje specjalne*.
 #### 3. Skutki FCK
 Jeśli na osobie zostały wykonane wszystkie podpunkty z rozdziału 1, gracz ma obowiązek wpisać komendę /zmiennick.
