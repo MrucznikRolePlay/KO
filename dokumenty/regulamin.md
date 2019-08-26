@@ -183,7 +183,7 @@
 To KO zadecyduje, czy podpalenie zostaje zaakceptowane czy też nie (a jeśli tak to przez jaki okres trwać będzie remont obiektu).
 2. Podpalenie powinno być **ostatecznością** podczas ściągania haraczy od biznesu.
 3. Każde podpalenie biznesu musi zostać zgłoszone w odpowiednim dziale, aby nakręcić wspólną grę na linii organizacje przestępcze ---> porządkowe.
-4.Skutki podpalenie muszą być odgrywane przez daną organizację przez okres jednego tygodnia. Alternatywą do tego jest umieszczenie opłaty w wysokości 3kk (/charity) jako zatrudnienie firmy, która dokona naprawy. Wtedy czas zostaje skrócony do 3 dni.
+4. Skutki podpalenie muszą być odgrywane przez daną organizację przez okres jednego tygodnia. Alternatywą do tego jest umieszczenie opłaty w wysokości 3kk (/charity) jako zatrudnienie firmy, która dokona naprawy. Wtedy czas zostaje skrócony do 3 dni.
 
 ### 6. Walka o wpływy & przynależność
 1. Zabroniona jest przynależność do tej samej organizacji na dwóch postaciach. Wyjątek dotyczy liderów organizacji, którzy za zgodą KO mogą prowadzić drugą postać jako epizod.
