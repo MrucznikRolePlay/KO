@@ -43,8 +43,7 @@
 4. Podczas otrzymania BW - gracz winien jest odgrywać osobę ranną przez co najmniej 10 minut, jeśli na serwerze znajdują się osoby należące do ERS.
 5. Sprawy poszczególnych zachowań i zasad IC (in character) regulują wewnętrzne regulaminy.
 6. Lider to przedstawiciel organizacji i jego zachowanie znacząco na nią wpływa. Organizacja może zostać ukarana za grzechy, które popełnił jeden z liderów.
-7. Uzyskanie 2 upomnień jest równoznaczne z usunięciem organizacji lub lidera.
-7.1. Uzyskanie 2 ostrzeżeń skutkuje zmianą na upomnienie oraz obserwacją frakcji przez KO.
+7. Uzyskanie 2 upomnień jest równoznaczne z usunięciem organizacji lub lidera. Uzyskanie 2 ostrzeżeń skutkuje zmianą na upomnienie oraz obserwacją frakcji przez KO.
 8. Każda osoba grająca w organizacji przestępczej, porządkowej i rządowej wyraża automatycznie zgodę na CK dla zarządu KO.
 9. Opinie o FCK wydaje [ESHU](https://mrucznik-rp.pl/user/7747-eshu/) wraz z innymi opiekunami organizacji przestępczych, a ostateczną opinię podejmuje [_West_](https://mrucznik-rp.pl/user/1064-west/).
 10. Po odrzuceniu aplikacji kolejną możesz napisać dopiero po upływie tygodnia od wydania werdyktu.
