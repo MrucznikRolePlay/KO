@@ -52,7 +52,7 @@
 
 ## Art 2. Zasady przekazywania lidera
 1. We wniosku o przekazanie lidera musicie uwzględnić tą osobę, która ma otrzymać to stanowisko. Zostanie wtedy ona sprawdzona przez KO.
-2. Wniosek o przekazanie lidera wysyłacie w wiadomości prywatnej do [kierownika KO](https://mrucznik-rp.pl/user/1064-west/).
+2. Wniosek o przekazanie lidera wysyłacie w wiadomości prywatnej do [kierownika KO](https://mrucznik-rp.pl/user/13083-telehama/).
 3. Jeśli wniosek o przekazanie lidera zostanie odrzucony może to zakończyć się zamknięciem organizacji lub wewnętrzną/zewnętrzna rekrutacją na owe stanowisko.
 
 ## Art 3. Założenia dla organizacji prywatnych
