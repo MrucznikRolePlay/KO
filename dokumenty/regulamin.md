@@ -49,6 +49,7 @@
 10. Po odrzuceniu aplikacji kolejną możesz napisać dopiero po upływie tygodnia od wydania werdyktu.
 11. Regulamin dotyczy każdego gracza serwisu mrucznik-rp.
 12. Główny lider organizacji ponosi pełną odpowiedzialność za działania swoich liderów pomocniczych. 
+13. Nieznajomość regulaminu nie zwalnia z obowiązku przestrzegania go.
 
 ## Art 2. Zasady przekazywania lidera
 1. We wniosku o przekazanie lidera musicie uwzględnić tą osobę, która ma otrzymać to stanowisko. Zostanie wtedy ona sprawdzona przez KO.
