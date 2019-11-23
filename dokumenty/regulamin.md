@@ -51,6 +51,11 @@
 11. Regulamin dotyczy każdego gracza serwisu mrucznik-rp.
 12. Główny lider organizacji ponosi pełną odpowiedzialność za działania swoich liderów pomocniczych. 
 13. Nieznajomość regulaminu nie zwalnia z obowiązku przestrzegania go.
+14. Organizacje dzielą się na: porządkowe, rządowe, prywatne i przestępcze.
+14.1 Organizacje prywatne znajdują się na slotach rodzinnych bądź prywatnych (zależnie od KO), są prowadzone przez osoby fizyczne i świadczą usługi zależne od firmy. Musi zostać zatwierdzona przez KO.
+14.2 Organizacje przestępcze to takie, które znajdują się na slocie rodzinnym bądź frakcyjnym. Mają one prawo do: porywania, napadów, kradzieży, etc. Musi ona zostać zatwierdzona przez KO.
+14.3 Organizacje porządkowe znajdują się tylko i wyłącznie na slotach frakcyjnych. W ich skład wchodzi: ERS i LSPD
+14.4 Organizacje rządowe znajdują się na slocie rodzinnym bądź frakcyjnym. W skład organizacji rządowych wchodzi: Sąd Najwyższy (SCoSA), Urząd Miasta (DMV), FBI, USSS.
 
 ## Art 2. Zasady przekazywania lidera
 1. We wniosku o przekazanie lidera musicie uwzględnić tą osobę, która ma otrzymać to stanowisko. Zostanie wtedy ona sprawdzona przez KO.
@@ -66,6 +71,7 @@
 5. Organizacja może wchodzić w interakcję z przestępczymi (płacenie haraczu lub wykup usług co wiąże się ze skutkami IC).
 6. Każda organizacja prywatna ma możliwość organizacji eventu dotyczącego swojej działalności.
 7. Właściciel biznesu, który zakupił go w wydziale planowania lub wynajął daną nieruchomość ma pełną władzę nad działaniem biznesu, przyjmowaniem i wyrzucaniem członków oraz może dowolnie zarządzać składnikami majątku danej firmy.
+8. Organizacje prywatne znajdują się na slotach rodzinnych bądź prywatnych (zależnie od KO), są prowadzone przez osoby fizyczne i świadczą usługi zależne od firmy. Musi zostać zatwierdzona przez KO.
 
 ### 2. Organizacje o charakterze radia lub telewizji
 1. Organizacja ma obowiązek prowadzenia rozmaitych działań min. Prowadzenie audycji, prowadzenie telewizji, gazety, wiadomości i organizowanie eventów.
