@@ -46,7 +46,7 @@
 6. Lider to przedstawiciel organizacji i jego zachowanie znacząco na nią wpływa. Organizacja może zostać ukarana za grzechy, które popełnił jeden z liderów.
 7. Uzyskanie 2 upomnień jest równoznaczne z usunięciem organizacji lub lidera. Uzyskanie 2 ostrzeżeń skutkuje zmianą na upomnienie oraz obserwacją frakcji przez KO.
 8. Każda osoba grająca w organizacji przestępczej, porządkowej i rządowej wyraża automatycznie zgodę na CK dla zarządu KO.
-9. Opinie o FCK wydaje [Krates](https://mrucznik-rp.pl/user/42-krates/) wraz z innymi opiekunami organizacji przestępczych, a ostateczną opinię podejmuje [Telehama](https://mrucznik-rp.pl/user/13083-telehama/).
+9. Opinie o FCK wydaje [Krates](https://mrucznik-rp.pl/user/42-krates/) wraz z innymi opiekunami organizacji przestępczych oraz [Rozalka](https://mrucznik-rp.pl/user/9058-rozalka/) , a ostateczną opinię podejmuje [Telehama](https://mrucznik-rp.pl/user/13083-telehama/).
 10. Po odrzuceniu aplikacji kolejną możesz napisać dopiero po upływie tygodnia od wydania werdyktu.
 11. Regulamin dotyczy każdego gracza serwisu mrucznik-rp.
 12. Główny lider organizacji ponosi pełną odpowiedzialność za działania swoich liderów pomocniczych. 
@@ -59,7 +59,7 @@
 
 ## Art 2. Zasady przekazywania lidera
 1. We wniosku o przekazanie lidera musicie uwzględnić tą osobę, która ma otrzymać to stanowisko. Zostanie wtedy ona sprawdzona przez KO.
-2. Wniosek o przekazanie lidera wysyłacie w wiadomości prywatnej do [kierownika KO](https://mrucznik-rp.pl/user/13083-telehama/).
+2. Wniosek o przekazanie lidera wysyłacie w wiadomości prywatnej do [kierowników KO](https://mrucznik-rp.pl/topic/42664-ko-cz%C5%82onkowie-ko-i-ich-uprawnienia/).
 3. Jeśli wniosek o przekazanie lidera zostanie odrzucony może to zakończyć się zamknięciem organizacji lub wewnętrzną/zewnętrzna rekrutacją na owe stanowisko.
 
 ## Art 3. Założenia dla organizacji prywatnych
