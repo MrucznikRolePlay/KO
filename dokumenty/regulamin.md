@@ -165,7 +165,7 @@
 3. Zakazuje się porywania w miejscach publicznych typu stacje, kasyno, bank, środek ulicy, komisariat, itd. - o reszcie decyduje kierownik lub administrator.
 4. Organizacje przestępcze mają prawo do przetrzymywania graczy za ich zgodą lub zgodą KO maksymalnie do 48 godzin.
 5. Zasada fair-play. Jeśli porywasz i gwałcisz (lub okaleczasz) to nie możesz zakończyć akcji z MK/CK ofiary, tylko wyrzucić ją, żeby akcja była kontynuowana, a potem przyjąć konsekwencje na klatę. Jeśli porywasz, żeby nadać MK/CK to nie gwałć/nie rabuj/nie okaleczaj poszkodowanego przedtem. 
-6. Podczas okradania gracza organizacja przestępcza może zabrać do $1.000.000 majątku ogólnego (materiały i inne przedmioty również się  wliczają). Maksymalna ilość materiałów do zabrania to 20.000 (w przeliczeniu 5.000 materiałów = $250.000).
+6. Podczas okradania gracza organizacja przestępcza może zabrać do $1.000.000 majątku ogólnego.
 
 ### 3. Napady i porwania
 1. Wymagana liczba osób do napadu wynosi: 5.
