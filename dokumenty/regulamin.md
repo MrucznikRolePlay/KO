@@ -162,10 +162,10 @@
 ### 2. Porwania
 1. Przy porwaniu stosunek porywających do porwanych powinien wynosić co najmniej trzech do jednego.
 2. Przy kradzieży stosunek kradnących do okradanego powinien wynosić co najmniej dwóch do jednego.
-3. Zakazuje się porywania w miejscach publicznych typu stacje, kasyno, bank, środek ulicy, komisariat, itd. - o reszcie decyduje kierownik lub administrator.
+3. Zakazuje się porywania z miejsc w których znajduje się większa liczba osób, czyli w tym spod stacji, kasyna, banku, komisariatu etc.
 4. Organizacje przestępcze mają prawo do przetrzymywania graczy za ich zgodą lub zgodą KO maksymalnie do 48 godzin.
 5. Zasada fair-play. Jeśli porywasz i gwałcisz (lub okaleczasz) to nie możesz zakończyć akcji z MK/CK ofiary, tylko wyrzucić ją, żeby akcja była kontynuowana, a potem przyjąć konsekwencje na klatę. Jeśli porywasz, żeby nadać MK/CK to nie gwałć/nie rabuj/nie okaleczaj poszkodowanego przedtem. 
-6. Podczas okradania gracza organizacja przestępcza może zabrać do $1.000.000 majątku ogólnego.
+6. Podczas okradania gracza organizacja przestępcza może zabrać do $1.000.000 majątku posiadanego w gotówce.
 
 ### 3. Napady i porwania
 1. Wymagana liczba osób do napadu wynosi: 5.
@@ -183,21 +183,22 @@
 
 ### 4. Haracze
 1. Próby zastraszenia (wybijanie szyb, demolowanie lokalu) muszą być przedstawione w głównym temacie danego biznesu w postaci screenshotów z akcji.
-2. Częstotliwość między haraczami powinna wynosić dwa tygodnie od ostatniej próby zebrania jej (patrz punkt 4).
-3. Kto pierwszy ten lepszy! Z jednego biznesu w przeciągu dwóch tygodni haracz ściąga tylko jedna organizacja. Chodzi o wymuszenie walk między organizacjami zamiast premiowania ciągłego znęcania się nad biznesami kilku organizacji naraz, które ignorują się wzajemnie.
-4. Po dwukrotnym odmówieniu i zastraszeniu właściciela biznesu organizacja może napisać wniosek do KO o umożliwienie dokonania podpalenia.
+2. Częstotliwość między haraczami powinna wynosić dwa tygodnie od ostatniej próby zebrania takowego wymuszenia gotówki.
+3. Haracz może wynosić maksymalnie $1.000.000$.
+4. Kto pierwszy ten lepszy! Z jednego biznesu w przeciągu dwóch tygodni haracz ściąga tylko jedna organizacja. Chodzi o wymuszenie walk między organizacjami zamiast premiowania ciągłego znęcania się nad biznesami kilku organizacji naraz, które ignorują się wzajemnie.
+5. Po dwukrotnym odmówieniu i zastraszeniu właściciela biznesu organizacja może napisać wniosek do KO o umożliwienie dokonania podpalenia.
 
 ### 5. Podpalenia
 1. Podpalenia biznesów muszą zostać zgłoszone do KO z uwzględnieniem powodu oraz wstępnym przygotowaniem do akcji podpalenia.
 To KO zadecyduje, czy podpalenie zostaje zaakceptowane czy też nie (a jeśli tak to przez jaki okres trwać będzie remont obiektu).
 2. Podpalenie powinno być **ostatecznością** podczas ściągania haraczy od biznesu.
 3. Każde podpalenie biznesu musi zostać zgłoszone w odpowiednim dziale, aby nakręcić wspólną grę na linii organizacje przestępcze ---> porządkowe.
-4. Skutki podpalenie muszą być odgrywane przez daną organizację przez okres jednego tygodnia. Alternatywą do tego jest umieszczenie opłaty w wysokości 3kk (/charity) jako zatrudnienie firmy, która dokona naprawy. Wtedy czas zostaje skrócony do 3 dni.
+4. Skutki podpalenia muszą być odgrywane przez daną organizację przez okres narzucony ze strony KO. Można ten okres skrócić o 3 dni poprzez umieszczenie opłaty w wysokości 3kk (/charity), jako zatrudnienie firmy, która dokona naprawy.
 
 ### 6. Walka o wpływy & przynależność
 1. Zabroniona jest przynależność do tej samej organizacji na dwóch postaciach. Wyjątek dotyczy liderów organizacji, którzy za zgodą KO mogą prowadzić drugą postać jako epizod.
 2. Podczas prowadzenia wojen między organizacjami mile widziane jest poinformowanie KO. Komisja ze swojej strony może zaproponować dalszą narrację rozgrywki.
-3. Organizacje przestępcze mają zakaz otwierania ognia w kierunku służb porządkowych bez wyraźnego powodu. Punkt tyczy się szczególnie gangów.
+3. Organizacje przestępcze mają zakaz otwierania ognia w kierunku służb porządkowych bez wyraźnego powodu.
 4. Obowiązuje zakaz ponownego wbijania BW. Jeśli dana osoba była przed chwilą w tym stanie, a znów wyciągnie broń i zacznie strzelać - jest to jedyne odstępstwo od tej reguły.
 
 ### 7. Kradzieże pojazdów
@@ -220,8 +221,7 @@ To KO zadecyduje, czy podpalenie zostaje zaakceptowane czy też nie (a jeśli ta
 ### 9. Regulamin FCK
 #### 1. Co trzeba zrobić, aby nadać FCK?
 - posiadać konkretny powód, który nie może być błahostką (możliwe powody podane w 2 podpunkcie).
-- wysłać plan zabójstwa w odpowiedniej wiadomości do Kierownika KO & Głównego Opiekuna Półświatka Przestępczego.
-Uwzględniamy tam screeny z planowania, przebiegu akcji i powód do ewentualnego wykonania FCK.
+- wysłać plan zabójstwa w odpowiednej wiadomości do Kierownik KO i Głównego Opiekuna Półświatka Przestępczego.
 - każde zabójstwo z ręki organizacji przestępczej musi zostać udokumentowane w dziale Wydarzenia. W innym wypadku zostanie ono odrzucone.
 
 #### 2. Za co można otrzymać FCK?
