@@ -214,7 +214,7 @@ To KO zadecyduje, czy podpalenie zostaje zaakceptowane czy też nie (a jeśli ta
 #### 1. Co trzeba zrobić, aby nadać FCK?
 - posiadać konkretny powód, który nie może być błahostką (możliwe powody podane w 2 podpunkcie).
 - wysłać plan zabójstwa w odpowiednej wiadomości do Kierownik KO i Głównego Opiekuna Półświatka Przestępczego.
-- każde zabójstwo z ręki organizacji przestępczej musi zostać udokumentowane w dziale Wydarzenia. W innym wypadku zostanie ono odrzucone.
+- każde zabójstwo z ręki organizacji przestępczej musi zostać udokumentowane w dziale Wydarzenia w ciągu 24h. W innym wypadku zostanie ono odrzucone.
 
 #### 2. Za co można otrzymać FCK?
 - z zemsty za podobny czyn na członku naszej organizacji (podlega tutaj także funkcjonariusz, który szczególnie podpadł organizacji przestępczej),
