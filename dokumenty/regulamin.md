@@ -38,14 +38,14 @@
 ## Art 1. Zasady ogólne
 
 1. Regulamin dotyczy każdego gracza serwisu mrucznik-rp.
-2. Główny lider może przekazać organizacje dopiero po upływie minimalnie trzech tygodni na stanowisku.
-3. Organizacja prywatna i przestępcza składa się z 1 GLD + 2 VLD + Członków frakcji. W przypadku porządkowych i rządowych jest 1GLD + 3VLD + Członkowie frakcji.
-4. Wszystkie prace członków frakcji związane bezpośrednio z działalnością na rzecz organizacji z chwilą publikacji przestają być jego.
+2. Każda osoba grająca w organizacji przestępczej, porządkowej i rządowej wyraża automatycznie zgodę na FCK dla zarządu KO.
+3. Główny lider może przekazać organizacje dopiero po upływie minimalnie trzech tygodni na stanowisku.
+4. Organizacja prywatna i przestępcza składa się z 1 GLD + 2 VLD + Członków frakcji. W przypadku porządkowych i rządowych jest 1GLD + 3VLD + Członkowie frakcji.
+5. Wszystkie prace członków frakcji związane bezpośrednio z działalnością na rzecz organizacji z chwilą publikacji przestają być jego.
  * Prawo do publikacji prac byłych członków frakcji (lub liderów) przysługuje tylko i wyłącznie po zamieszczeniu adnotacji o autorze.
-5. Sprawy poszczególnych zachowań i zasad IC (in character) regulują wewnętrzne regulaminy.
-6. Lider to przedstawiciel organizacji i jego zachowanie znacząco na nią wpływa. Organizacja może zostać ukarana za grzechy, które popełnił jeden z liderów.
-7. Uzyskanie 2 upomnień jest równoznaczne z usunięciem organizacji lub lidera. Uzyskanie 2 ostrzeżeń skutkuje zmianą na upomnienie oraz obserwacją frakcji przez KO.
-8. Każda osoba grająca w organizacji przestępczej, porządkowej i rządowej wyraża automatycznie zgodę na CK dla zarządu KO.
+6. Sprawy poszczególnych zachowań i zasad IC (in character) regulują wewnętrzne regulaminy.
+7. Lider to przedstawiciel organizacji i jego zachowanie znacząco na nią wpływa. Organizacja może zostać ukarana za grzechy, które popełnił jeden z liderów.
+8. Uzyskanie 2 upomnień jest równoznaczne z usunięciem organizacji lub lidera. Uzyskanie 2 ostrzeżeń skutkuje zmianą na upomnienie oraz obserwacją frakcji przez KO.
 9. Opinie o FCK wydaje Główny Opiekun Półświatka Przestępczego wraz z pomocnikami, ostateczną opinię wydaje Kierownik KO.
 10. Po odrzuceniu aplikacji kolejną możesz napisać dopiero po upływie tygodnia od wydania werdyktu.
 11. Nieznajomość regulaminu nie zwalnia z obowiązku przestrzegania go.
