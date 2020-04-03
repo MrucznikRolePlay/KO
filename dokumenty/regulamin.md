@@ -35,27 +35,25 @@
       - [2. Za co można otrzymać FCK?](#2-za-co-można-otrzymać-fck)
       - [3. Skutki FCK](#3-skutki-fck)
 
-## Art 1. Zasady ogólne organizacji
+## Art 1. Zasady ogólne
 
-1. Główny lider może przekazać organizacje dopiero po upływie minimalnie trzech tygodni na stanowisku.
-2. Organizacja prywatna i przestępcza składa się z 1 GLD + 2 VLD + Członków frakcji. W przypadku porządkowych i rządowych jest 1GLD + 3VLD + Członkowie frakcji.
-3. Wszystkie prace członków frakcji związane bezpośrednio z działalnością na rzecz organizacji z chwilą publikacji przestają być jego.
+1. Regulamin dotyczy każdego gracza serwisu mrucznik-rp.
+2. Główny lider może przekazać organizacje dopiero po upływie minimalnie trzech tygodni na stanowisku.
+3. Organizacja prywatna i przestępcza składa się z 1 GLD + 2 VLD + Członków frakcji. W przypadku porządkowych i rządowych jest 1GLD + 3VLD + Członkowie frakcji.
+4. Wszystkie prace członków frakcji związane bezpośrednio z działalnością na rzecz organizacji z chwilą publikacji przestają być jego.
  * Prawo do publikacji prac byłych członków frakcji (lub liderów) przysługuje tylko i wyłącznie po zamieszczeniu adnotacji o autorze.
-4. Podczas otrzymania BW - gracz winien jest odgrywać osobę ranną przez co najmniej 10 minut, jeśli na serwerze znajdują się osoby należące do ERS.
 5. Sprawy poszczególnych zachowań i zasad IC (in character) regulują wewnętrzne regulaminy.
 6. Lider to przedstawiciel organizacji i jego zachowanie znacząco na nią wpływa. Organizacja może zostać ukarana za grzechy, które popełnił jeden z liderów.
 7. Uzyskanie 2 upomnień jest równoznaczne z usunięciem organizacji lub lidera. Uzyskanie 2 ostrzeżeń skutkuje zmianą na upomnienie oraz obserwacją frakcji przez KO.
 8. Każda osoba grająca w organizacji przestępczej, porządkowej i rządowej wyraża automatycznie zgodę na CK dla zarządu KO.
-9. Opinie o FCK wydaje Główny Opiekun Półświatka Przestępczego wraz z innymi opiekunami organizacji przestępczych oraz , a ostateczną opinię podejmuje Kierownik KO.
+9. Opinie o FCK wydaje Główny Opiekun Półświatka Przestępczego wraz z pomocnikami, ostateczną opinię wydaje Kierownik KO.
 10. Po odrzuceniu aplikacji kolejną możesz napisać dopiero po upływie tygodnia od wydania werdyktu.
-11. Regulamin dotyczy każdego gracza serwisu mrucznik-rp.
-12. Główny lider organizacji ponosi pełną odpowiedzialność za działania swoich liderów pomocniczych. 
-13. Nieznajomość regulaminu nie zwalnia z obowiązku przestrzegania go.
-14. Organizacje dzielą się na: porządkowe, rządowe, prywatne i przestępcze.
-15. Organizacje prywatne znajdują się na slotach rodzinnych bądź prywatnych (zależnie od KO), są prowadzone przez osoby fizyczne i świadczą usługi zależne od firmy. Musi zostać zatwierdzona przez KO.
-16. Organizacje przestępcze to takie, które znajdują się na slocie rodzinnym bądź frakcyjnym. Mają one prawo do: porywania, napadów, kradzieży, etc. Musi ona zostać zatwierdzona przez KO.
-17. Organizacje porządkowe znajdują się tylko i wyłącznie na slotach frakcyjnych. W ich skład wchodzi: ERS i LSPD
-18. Organizacje rządowe znajdują się na slocie rodzinnym bądź frakcyjnym. W skład organizacji rządowych wchodzi: Sąd Najwyższy (SCoSA), Urząd Miasta (DMV), FBI, USSS.
+11. Nieznajomość regulaminu nie zwalnia z obowiązku przestrzegania go.
+12. Organizacje dzielą się na: porządkowe, rządowe, prywatne i przestępcze.
+13. Organizacje prywatne znajdują się na slotach rodzinnych bądź prywatnych (zależnie od KO), są prowadzone przez osoby fizyczne i świadczą usługi zależne od firmy. Musi zostać zatwierdzona przez KO.
+14. Organizacje przestępcze to takie, które znajdują się na slocie rodzinnym bądź frakcyjnym. Mają one prawo do: porywania, napadów, kradzieży, etc. Musi ona zostać zatwierdzona przez KO.
+15. Organizacje porządkowe znajdują się tylko i wyłącznie na slotach frakcyjnych. W ich skład wchodzi: ERS i LSPD
+16. Organizacje rządowe znajdują się na slocie rodzinnym bądź frakcyjnym. W skład organizacji rządowych wchodzi: Sąd Najwyższy (SCoSA), Urząd Miasta (DMV), FBI, USSS.
 
 ## Art 2. Zasady przekazywania lidera
 1. We wniosku o przekazanie lidera musicie uwzględnić tą osobę, która ma otrzymać to stanowisko. Zostanie wtedy ona sprawdzona przez KO.
@@ -81,12 +79,7 @@
 1. Organizacje zajmują się sprzedażą części samochodowych, ich wymianą, zwiększaniem osiągów pojazdów oraz zmiana stylistyczna auta(tj. naprawa, tankowanie, tuning pojazdów).
 3. Organizacje mogą  też w ramach porozumienia drogą IC wystawiać odpłatne zaświadczenia o stanie technicznym pojazdu dla organizacji.
 
-### 4. Organizacje o charakterze przewozowym
-1. Głównym celem tych organizacji jest prowadzenie przewozu osób.
-2. Ów organizacje mają możliwość zajmowania charakterystycznych miejsc parkingowych celem zdobycia klientów.
-3. W ramach porozumień IC mogą świadczyć swoje usługi klientom prywatnym.
-
-### 5. Sklepy z bronią
+### 4. Sklepy z bronią
 1. Mogą one sprzedawać bronie zgodne z postanowieniami polityki stanowej.
 2. Zakaz sprzedawania broni w sposób nielegalny.
 
@@ -95,13 +88,12 @@
 ### 1. LSPD - Los Santos Police Department
 1. Utrzymywanie porządku publicznego w mieście,
 2. Reagowanie na zgłoszenia alarmowe,
-3. Wydawanie zezwoleń prawniczych,
-4. Prowadzenie kontroli i pościgów,
-5. Administrowanie zaświadczeniami o niekaralności,
-6. Prowadzenie kartotek zatrzymanych i aresztowanych,
-7. Prowadzenie i wykorzystywanie specjalnej jednostki SWAT,
-8. Zabezpieczanie imprez masowych i miejsc zdarzenia,
-9. Prowadzenie jednostki Gang Unit specjalizującej się w działaniu na terenie South Central w związku z gangami ulicznymi.
+3. Prowadzenie kontroli i pościgów,
+4. Administrowanie zaświadczeniami o niekaralności,
+5. Prowadzenie kartotek zatrzymanych i aresztowanych,
+6. Prowadzenie i wykorzystywanie specjalnej jednostki SWAT,
+7. Zabezpieczanie imprez masowych i miejsc zdarzenia,
+8. Prowadzenie jednostki Gang Unit specjalizującej się w działaniu na terenie South Central w związku z gangami ulicznymi.
 
 ### 2. ERS - Emergency Rescue Services
 1. Reagowanie na zgłoszenia alarmowe,
