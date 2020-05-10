@@ -27,12 +27,13 @@
     + [3. Napady](#3-napady)
     + [4. Haracze](#4-haracze)
     + [5. Podpalenia](#5-podpalenia)
-    + [6. Walka o wpływy & przynależność](#6-walka-o-wpływy--przynależność)
+    + [6. Walka o wpływy i przynależność](#6-walka-o-wpływy-i-przynależność)
     + [7. Kradzieże pojazdów](#7-kradzieże-pojazdów)
     + [8. Regulamin FCK](#8-regulamin-fck)
       - [1. Co trzeba zrobić, aby nadać FCK?](#1-co-trzeba-zrobić-aby-nadać-FCK)
       - [2. Za co można otrzymać FCK?](#2-za-co-można-otrzymać-fck)
       - [3. Skutki FCK](#3-skutki-fck)
+      - [4. Zachowanie po FCK](#4-zachowanie-po-fck)
 
 ## Art 1. Zasady ogólne
 
@@ -186,7 +187,7 @@ To KO zadecyduje, czy podpalenie zostaje zaakceptowane czy też nie (a jeśli ta
 3. Każde podpalenie biznesu musi zostać zgłoszone w odpowiednim dziale, aby nakręcić wspólną grę na linii organizacje przestępcze ---> porządkowe.
 4. Skutki podpalenia muszą być odgrywane przez daną organizację przez okres narzucony ze strony KO. Można ten okres skrócić o 3 dni poprzez umieszczenie opłaty w wysokości 3kk (/charity), jako zatrudnienie firmy, która dokona naprawy.
 
-### 6. Walka o wpływy & przynależność
+### 6. Walka o wpływy i przynależność
 1. Zabroniona jest przynależność do tej samej organizacji na dwóch postaciach. Wyjątek dotyczy liderów organizacji, którzy za zgodą KO mogą prowadzić drugą postać jako epizod.
 2. Podczas prowadzenia wojen między organizacjami mile widziane jest poinformowanie KO. Komisja ze swojej strony może zaproponować dalszą narrację rozgrywki.
 3. Organizacje przestępcze mają zakaz otwierania ognia w kierunku służb porządkowych bez wyraźnego powodu.
@@ -223,3 +224,6 @@ Kierownik może zatwierdzić FCK za rzeczy nieuwzględnione w regulaminie, tak z
 #### 3. Skutki FCK
 Jeśli na osobie zostały wykonane wszystkie podpunkty z rozdziału 1, gracz ma obowiązek wpisać komendę /zmiennick.
 W przypadku, gdy osoba nie zrobi tego w ciągu 48 godzin - jej konto zostanie zablokowane.
+
+#### 4. Zachowanie po FCK
+Organizacja po wbiciu FCK musi  umieścić temat w wydarzeniach ale by uniknąć zabójstw doskonałych ma obowiązek w wiadomości PW lub w temacie wydarzenia dać bardzo ważną poszlakę która mniej więcej da pole zaczepienia dla organizacji porządkowych takich jak FBI czy LSPD. Jeżeli organizacja zacznie grać przestępstwa doskonałe (Nikt nic nie widział, nikt nic nie słyszał, nikt nic nie znalazał) FCK zostanie cofnięte a ZGP do tego ukarana za non rp.
