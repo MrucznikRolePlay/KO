@@ -226,4 +226,4 @@ Jeśli na osobie zostały wykonane wszystkie podpunkty z rozdziału 1, gracz ma 
 W przypadku, gdy osoba nie zrobi tego w ciągu 48 godzin - jej konto zostanie zablokowane.
 
 #### 4. Zachowanie po FCK
-Organizacja po wbiciu FCK musi  umieścić temat w wydarzeniach ale by uniknąć zabójstw doskonałych ma obowiązek w wiadomości PW lub w temacie wydarzenia dać bardzo ważną poszlakę która mniej więcej da pole zaczepienia dla organizacji porządkowych takich jak FBI czy LSPD. Jeżeli organizacja zacznie grać przestępstwa doskonałe (Nikt nic nie widział, nikt nic nie słyszał, nikt nic nie znalazał) FCK zostanie cofnięte a ZGP do tego ukarana za non rp.
+Organizacja po wbiciu FCK musi  umieścić temat w wydarzeniach ale by uniknąć zabójstw doskonałych ma obowiązek w wiadomości PW lub w temacie wydarzenia dać bardzo ważną poszlakę która mniej więcej da pole zaczepienia dla organizacji porządkowych takich jak FBI czy LSPD. Jeżeli organizacja zacznie grać przestępstwa doskonałe (Nikt nic nie widział, nikt nic nie słyszał, nikt nic nie znalazł) FCK zostanie cofnięte a ZGP do tego ukarana za non rp.
